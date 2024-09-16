@@ -1,0 +1,15 @@
+INICIO
+1- Abro os olhos;
+2- Levanto da cama;
+3- Ando até o banheiro;
+4- Faço xixi;
+5- Lavo o rosto e as mãos;
+6- Escovo os dentes;
+7- Ando até a cozinha;
+8- Pego o pão;
+9- Pego a manteiga;
+10- Pego a faca;
+11- Corto o pão;
+12- Passo a manteiga;
+13- Como o pão;
+FIM

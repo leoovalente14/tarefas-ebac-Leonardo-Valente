@@ -1,4 +1,5 @@
 public class Carro {
+// Variáveis da classe Carro
     private String cor;
 
     private String placa;
@@ -12,6 +13,8 @@ public class Carro {
     private int documento;
 
     private String dono;
+
+    // Métodos get/setters da classe Carro
 
     public String getCor() {
         return cor;
